@@ -1,0 +1,68 @@
+body,
+html {
+  height: 100%;
+  padding: 0;
+  font-size: 16px;
+  font-family: "Lato" sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+.pimg1 {
+  background-image: url(./image1_files/self-adhesive-vinyl-sticker-medium-0-1-ama-2331-madhusign-original-imaes5gzhyny4rg3.jpeg);
+  min-height: 100%;
+}
+.pimg2 {
+  background-image: url(./image2_files/3d-nature-wallpaper-500x500.jpg);
+  min-height: 400px;
+}
+.pimg3 {
+  background-image: url(./image3_files/131969984-3d-amazing-natural-wallpaper.jpg);
+  min-height: 100%;
+}
+.pimg4 {
+  background-image: url(./image4_files/3d-amazing-natural-wallpaper-background-260nw-1511224781.jpg);
+  min-height: 100%;
+}
+
+.pimg1,
+.pimg2,
+.pimg3,
+.pimg4 {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.ptext {
+  position: absolute;
+  top: 58%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.textbg {
+  background: #313534;
+  color: #fff;
+  padding: 20px;
+}
+.section {
+  padding: 50px 80px;
+  text-align: center;
+}
+.section-light {
+  background-color: #6dadbd;
+  color: #fff;
+}
+.section-dark {
+  background-color: #007924;
+  color: #ddd;
+}
+.section-dark2 {
+  background-color: #84ebe5;
+  color: #535252;
+}
