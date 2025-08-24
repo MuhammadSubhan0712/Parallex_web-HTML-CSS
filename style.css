@@ -9,19 +9,19 @@ html {
   color: #666;
 }
 .pimg1 {
-  background-image: url(./image1_files/self-adhesive-vinyl-sticker-medium-0-1-ama-2331-madhusign-original-imaes5gzhyny4rg3.jpeg);
+  background-image: url(./images/Image1.jpeg);
   min-height: 100%;
 }
 .pimg2 {
-  background-image: url(./image2_files/3d-nature-wallpaper-500x500.jpg);
+  background-image: url(./images/Image2.jpg);
   min-height: 400px;
 }
 .pimg3 {
-  background-image: url(./image3_files/131969984-3d-amazing-natural-wallpaper.jpg);
+  background-image: url(./images/Image3.jpg);
   min-height: 100%;
 }
 .pimg4 {
-  background-image: url(./image4_files/3d-amazing-natural-wallpaper-background-260nw-1511224781.jpg);
+  background-image: url(./images/Image4.jpg);
   min-height: 100%;
 }
 
